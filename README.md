@@ -13,10 +13,13 @@ This project analyzes hospital readmission rates for diabetic patients using dat
 
 ## Dataset
 
-- Dataset Source: Kaggle  
-  "Predicting Hospital Readmission of Diabetics" by chongchong33  
-  https://www.kaggle.com/code/chongchong33/predicting-hospital-readmission-of-diabetics  
-  (original data from Diabetes 130-US hospitals for years 1999–2008)
+Sourced from Kaggle.  
+Created by chongchong33.  
+Original data: Diabetes 130-US hospitals for years 1999–2008.  
+This dataset is licensed under the Creative Commons Zero (CC0: Public Domain) license.  
+You can download it directly from the Kaggle link above to follow along:  
+https://www.kaggle.com/code/chongchong33/predicting-hospital-readmission-of-diabetics
+
 
 ## Credits
 
