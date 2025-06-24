@@ -1,1 +1,1 @@
-# Diabetes Readmission Prediction Project
+# Diabetes Readmission Prediction
